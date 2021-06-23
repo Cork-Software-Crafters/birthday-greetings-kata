@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayGreetings", "BirthdayGreetings\BirthdayGreetings.csproj", "{5DC16876-4119-403D-8060-8A47C7AC60F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayGreetingsTests", "BirthdayGreetingsTests\BirthdayGreetingsTests.csproj", "{D0A95908-CE20-4A6E-954C-629838B471FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC16876-4119-403D-8060-8A47C7AC60F7}.Debug|x86.ActiveCfg = Debug|x86
+		{5DC16876-4119-403D-8060-8A47C7AC60F7}.Debug|x86.Build.0 = Debug|x86
+		{5DC16876-4119-403D-8060-8A47C7AC60F7}.Release|x86.ActiveCfg = Release|x86
+		{5DC16876-4119-403D-8060-8A47C7AC60F7}.Release|x86.Build.0 = Release|x86
+		{D0A95908-CE20-4A6E-954C-629838B471FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D0A95908-CE20-4A6E-954C-629838B471FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{D0A95908-CE20-4A6E-954C-629838B471FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{D0A95908-CE20-4A6E-954C-629838B471FE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BirthdayGreetings\BirthdayGreetings.csproj
+	EndGlobalSection
+EndGlobal
