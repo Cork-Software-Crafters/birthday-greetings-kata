@@ -1,0 +1,15 @@
+{
+  "name": "birthday-greetings-kata",
+  "version": "1.0.0",
+  "description": "NodeJS version of the Birthday Greetings Refactoring Kata",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Paulo C.",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
